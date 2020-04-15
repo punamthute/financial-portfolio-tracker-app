@@ -1,0 +1,65 @@
+{
+    "myStocks":{
+        "1":{
+            "closingPrice":"25000",
+            "date":"2018-01-22",
+            "name":"The Boing Company",
+            "NoofShares":"50",
+            "symbol" :"BA"
+
+        },
+        "2":{
+            "closingPrice":"2423",
+            "date":"2020-01-22",
+            "name":"Microsoft Corporation",
+            "NoofShares":"2",
+            "symbol" :"MSFT"
+
+        },
+        "3":{
+            "closingPrice":"22",
+            "date":"2020-03-02",
+            "name":"Goldman Sachs Group Inc.",
+            "NoofShares":"1111",
+            "symbol" :"GS"
+       },
+        "4":{
+        "closingPrice":"12",
+        "date":"2020-03-09",
+        "name":"McDonald's Corporation",
+        "NoofShares":"12",
+        "symbol" :"MCD"
+    },
+       "5":{
+        "closingPrice":"32",
+        "date":"2020-03-11",
+        "name":"The Walt Disney Company",
+        "NoofShares":"43",
+        "symbol" :"DIS"
+    }
+},
+"allstocks" :
+[
+    {
+        "name"  : "Amazon.com,Inc",
+        "symbol": "AMZN"
+    },
+    {
+        "name"  : "Facebook.Inc",
+        "symbol": "FB"
+    },
+    {
+        "name"  : "Twitter Inc",
+        "symbol": "TWTR"
+    },
+    {
+        "name"  : "Apple Inc",
+        "symbol": "AAPL"
+    },
+    {
+        "name"  : "Home Depot Inc.",
+        "symbol": "HD"
+    }
+  
+]
+}

@@ -1,0 +1,49 @@
+ul.buttonList{
+    list-style: none;
+    /* display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-right: 38%; */
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-row-gap: 30px;
+}
+
+
+.buttonlist, buttonlist, button, [type=submit], [type=reset], [type=button] {
+    -webkit-appearance: none;
+    display: inline-block;
+    border: 1px solid #ee1e03;
+    border-radius: 4px;
+    background: rgb(238, 30, 3);
+    color: black;
+    font-weight: 600;
+    font-family: -apple-system, BlinkMacSystemFont, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-size: 1rem;
+    text-transform: none;
+    padding: .85rem 1.55rem;
+    margin: 0 0 .9rem 0;
+    vertical-align: middle;
+    text-align: center;
+    cursor: pointer;
+    text-decoration: none;
+    line-height: 1;
+    list-style-type: none;
+  }
+  
+  .buttonlist:hover, a.stockbutton:hover, button:hover, [type=submit]:hover, [type=reset]:hover, [type=button]:hover {
+    border: 1px solid #0250bc;
+    background: #0250bc;
+    color: #ffffff;
+    text-decoration: none;
+  list-style-type: none;
+  list-style-type: none;}
+  
+  .StockButton
+  {
+    list-style-type: none;
+  }
+  
+  
+  
+   
